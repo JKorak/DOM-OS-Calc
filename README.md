@@ -11,7 +11,7 @@ For attribution, please cite the original paper.
 <br>
 
 # License
-This code is licensed under a [GPL 3.0 license](README.md). Please cite the original [paper](<#reference>) for attribution.
+This code is licensed under a [GPL 3.0 license](LICENSE.md). Please cite the original [paper](<#reference>) for attribution.
 
 <br>
 
