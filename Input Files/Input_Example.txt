@@ -1,0 +1,9 @@
+TopFolder	Subfolder	Abs_Name	Wave_min	Wave_max	Wave_inc	Pathlength	Fluor_Name	Flipped	Ex_min	Ex_max	Ex_inc	Em_min	Em_max	Em_inc	DOC	Nat_Treat	Treatment	Origin	Whole_Isolate	SizeFrac
+ExampleData	Project1	Samp1_UV	200	800	1	5	Samp1	N	240	500	10	300	700	2	1.367	Natural	None	Aquatic	WholeWater	None
+ExampleData	Project1	Samp2_UV	200	800	1	5	Samp2	N	240	500	10	300	700	2	2.655	Natural	None	WastewaterEffluent	WholeWater	None
+ExampleData	Project1	Samp3_UV	200	800	1	1	Samp3	N	240	500	10	300	700	2	4.761	Natural	None	WastewaterEffluent	WholeWater	None
+ExampleData	Project1	Samp4_UV	200	800	1	5	Samp4	N	240	500	10	300	700	2	1.062	Natural	None	Aquatic	WholeWater	None
+ExampleData	Project2	Samp5_UV	200	800	1	1	Samp5	N	240	550	10	300	700	2	4.25	Natural	None	Aquatic	Isolate	None
+ExampleData	Project2	Samp6_UV	200	800	1	1	Samp6	N	240	550	10	300	700	2	3.96	Natural	None	Aquatic	Isolate	None
+ExampleData	Project2	Samp7_UV	200	800	1	1	Samp7	N	240	550	10	300	700	2	4.47	Natural	None	Aquatic	Isolate	>5k
+ExampleData	Project2	Samp8_UV	200	800	1	1	Samp8	N	240	550	10	300	700	2	1.33	Natural	None	Aquatic	Isolate	<1k
