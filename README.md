@@ -4,7 +4,7 @@ This is a repository for MATLAB Code that applies quality control criteria and c
 ## Reference
 This project was a collaboration between Julie Korak at the University of Colorado Boulder and Garrett McKay at Texas A&M University. This code was released as a supplement to the following paper:
 
-Korak, J.A., McKay G. "Meta-Analysis of Optical Surrogates for the Characterization of Dissolved Organic Matter". Environmental Science and Technology (2024)
+Korak, J.A., McKay G. "Meta-Analysis of Optical Surrogates for the Characterization of Dissolved Organic Matter". Environmental Science and Technology (2024), 58, 17, 7380–7392. https://doi.org/10.1021/acs.est.3c10627
 
 For attribution, please cite the original paper.
 
